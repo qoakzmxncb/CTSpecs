@@ -1,0 +1,22 @@
+{
+  "name": "CTSpecs",
+  "version": "0.1.0",
+  "summary": "CTSpecs的 summary 短点的",
+  "description": "CTSpec 的 description 描述，要长点的,要比summary长",
+  "homepage": "https://github.com/qoakzmxncb/CTSpecs",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Chief Tse": "qoakzmxncb.qq.com"
+  },
+  "source": {
+    "git": "https://github.com/qoakzmxncb/CTSpecs.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "CTSpecs/Classes/**/*"
+}

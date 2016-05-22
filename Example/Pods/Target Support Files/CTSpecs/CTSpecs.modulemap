@@ -1,0 +1,6 @@
+framework module CTSpecs {
+  umbrella header "CTSpecs-umbrella.h"
+
+  export *
+  module * { export * }
+}

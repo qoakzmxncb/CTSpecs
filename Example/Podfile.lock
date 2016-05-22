@@ -1,0 +1,16 @@
+PODS:
+  - CTSpecs (0.1.0)
+
+DEPENDENCIES:
+  - CTSpecs (from `../`)
+
+EXTERNAL SOURCES:
+  CTSpecs:
+    :path: ../
+
+SPEC CHECKSUMS:
+  CTSpecs: 10698a47fb45c65ac851eb084d4c612dce6d811a
+
+PODFILE CHECKSUM: a436dbf4c88ddbd00715bb3c514386e86dad2cf5
+
+COCOAPODS: 1.0.0
