@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'CTSpecs_Example' do
+  pod 'CTSpecs', :path => '../'
+
+  target 'CTSpecs_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
