@@ -10,4 +10,10 @@
 
 @interface TestClass : NSObject
 
+/**
+ Returns string decoded in UTF8.
+ */
+- (nullable NSString *)utf8String;
+
+
 @end

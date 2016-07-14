@@ -10,4 +10,8 @@
 
 @implementation TestClass
 
+- (NSString *)utf8String{
+    return @"88888888";
+}
+
 @end
